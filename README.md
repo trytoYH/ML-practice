@@ -1,3 +1,3 @@
 <h3>
-pytorch practice
+ML practice
 </h3>
